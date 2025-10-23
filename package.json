@@ -1,0 +1,14 @@
+{
+  "name": "banking-api",
+  "version": "1.0.0",
+  "description": "Secure Banking API using JWT Authentication in Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
